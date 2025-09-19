@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trsilva/)
 
 ![Thiagos's github stats](https://github-readme-stats.vercel.app/api?username=sti6ca&show_icons=true&theme=tokyonight)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sti6ca&theme=tokionight)](https://github.com/sti6ca/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sti6ca&show_icons_&theme=tokyonight)](https://github.com/sti6ca/github-readme-stats)
 
 #### You can find me here
 
