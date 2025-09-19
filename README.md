@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Multicloud - Azure, AWS, GCP, and OCI, IaC - Terraform, Automation with CI/CD - GitHub Actions, and Azure DevOps, GitOps - Flux CD, and Argo CD, Containerization - Docker, and K8s, and Observability - Prometheus, LGTM Stack, New Relic, and Datadog
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trsilva/)
 
-![Thiagos's github stats](https://github-readme-stats.vercel.app/api?username=sti6ca&show_icons=true&theme=dracula)
+![Thiagos's github stats](https://github-readme-stats.vercel.app/api?username=sti6ca&show_icons=true&theme=tokyonight)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sti6ca&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
