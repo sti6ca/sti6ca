@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sti6ca&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 #### You can find me here
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fff?style=flat-square&logo=Instagram&link=https://instagram.com/_otsilva)](https://instagram.com/_otsilva)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trsilva)](https://www.linkedin.com/in/trsilva/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_otsilva)](https://instagram.com/_otsilva)
 [![LinkTree Badge](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white&link=https://linktr.ee/_tsilva)](https://linktr.ee/_tsilva)
